@@ -74,9 +74,7 @@ alt-text-skill/
 
 ---
 
-## Next Steps
-
-If this prototype demonstrates sufficient accuracy, the recommended next step is to integrate this capability directly into Statamic as a custom addon, allowing Editorial to generate and review alt-text without leaving the CMS.
+## Testing Guide
 
 When testing, ask yourself:
 
@@ -85,7 +83,11 @@ When testing, ask yourself:
 - Does it read naturally for a screen reader user?
 - Are there any images where it struggles or gets things wrong?
 
-Note down any examples where the output isn't quite right — that feedback is really valuable for refining the Skill instructions.
+Run it against as many different image types as you can — portraits, crowds, landscapes, graphics, screenshots — to build a picture of where it excels and where it might need the prompt refining. Note down any examples where the output is inaccurate or too vague, as well as any patterns in where it struggles — that feedback is really valuable for refining the Skill instructions.
+
+## Next Steps
+
+If this prototype demonstrates sufficient accuracy, the recommended next step is to integrate this capability directly into Statamic as a custom addon, allowing Editorial to generate and review alt-text without leaving the CMS.
 
 ---
 
