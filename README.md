@@ -26,7 +26,7 @@ This prototype is intended for review by Editorial and Product stakeholders to a
 
 1. **Clone or download this repository**
    ```bash
-   git clone https://github.com/yourusername/alt-text-skill.git
+   git clone https://github.com/christriescoding/alt-text-skill.git
    ```
 
 2. **Open the project folder in Claude Code**
