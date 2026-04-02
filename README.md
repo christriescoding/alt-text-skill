@@ -78,6 +78,15 @@ alt-text-skill/
 
 If this prototype demonstrates sufficient accuracy, the recommended next step is to integrate this capability directly into Statamic as a custom addon, allowing Editorial to generate and review alt-text without leaving the CMS.
 
+When testing, asking yourself:
+
+- Is the description factually accurate?
+- Is it the right level of detail — not too vague, not too verbose?
+- Does it read naturally for a screen reader user?
+- Are there any images where it struggles or gets things wrong?
+
+Note down any examples where the output isn't quite right — that feedback is really valuable for refining the Skill instructions.
+
 ---
 
 ## Questions or Feedback
