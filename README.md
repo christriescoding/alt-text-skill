@@ -1,12 +1,12 @@
 # Alt-Text Generator — Claude Code Skill
 
-A proof of concept for AI-assisted alt-text generation, built as a Claude Code Skill. This tool is designed to help Editorial teams generate accurate, accessibility-compliant alt-text for images used on news editorial websites.
+A proof of concept for an AI-assisted alt-text generator, built as a Claude Code Skill. The purpose of this tool is to assess whether Claude can accurately generate alt text for an image. If so, the goal is to implement this feature in Statamic to help Editorial generate accurate, accessibility-compliant alt text for images used on the website.
 
 ---
 
 ## What This Does
 
-When given an image, this Skill uses Claude to analyse the visual content and return a concise, accurate alt-text string that follows accessibility best practices. The output is ready to review and use directly in a CMS.
+When given an image, this Skill uses Claude to analyse the visual content and return a concise, accurate alt-text string that follows accessibility best practices.
 
 ---
 
